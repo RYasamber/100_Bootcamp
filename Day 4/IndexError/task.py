@@ -5,5 +5,6 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "California", "Minnesota", "Oregon", "Kansas", "West Virginia", "Nevada", "Nebraska", "Colorado",
                      "North Dakota", "South Dakota", "Montana", "Washington", "Idaho", "Wyoming", "Utah", "Oklahoma",
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
-
-print(states_of_america)
+names = ["ronald", "Harry", "mconahay", "john", "kremen"]
+states_and_names = (states_of_america, names)
+print(states_and_names)
