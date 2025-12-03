@@ -1,6 +1,6 @@
 def my_function():
-    for i in range(1, 20):
-        if i == 20:
+    for i in range(1, 25):
+        if i == 25:
             print("You got it")
 
 
