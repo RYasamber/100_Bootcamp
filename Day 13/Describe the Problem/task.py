@@ -1,5 +1,5 @@
 def my_function():
-    for i in range(1, 25):
+    for i in range(1, 26):
         if i == 25:
             print("You got it")
 
